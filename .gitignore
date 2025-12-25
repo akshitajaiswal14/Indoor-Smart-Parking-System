@@ -1,0 +1,5 @@
+parkingenv/
+__pycache__/
+*.pyc
+*.npy
+qrs/
